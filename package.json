@@ -1,0 +1,34 @@
+{
+  "name": "laralix-modernizr",
+  "description": "Modernizr extension for Laravel Elixir",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kyle Anderson",
+    "email": "kyle@divspace.com"
+  },
+  "homepage": "https://github.com/laralix/modernizr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laralix/modernizr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laralix/modernizr/issues"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "modernizr",
+    "gulp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-modernizr": "^1.0.0-alpha"
+  },
+  "peerDependencies": {
+    "laravel-elixir": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
